@@ -8,6 +8,7 @@
 	<name>WarehouseManagement Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+		
 		<!-- Spring Security -->
 		<dependency>
 			<groupId>org.springframework.security</groupId>
